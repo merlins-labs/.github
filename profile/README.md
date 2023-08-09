@@ -1,29 +1,29 @@
-## Osmosis-Labs
+## Merlins-Labs
 
-The Osmosis-labs hosts a series of repositories relating to the Osmosis blockchain and tooling for Cosmos.
+The Merlins-labs hosts a series of repositories relating to the Merlins blockchain and tooling for cosmos.
 
-The Osmosis blockchain is a decentralized network, ran by 100+ validators and full nodes, with many front-ends and development teams on it.
+The Merlins blockchain is a decentralized network, ran by 100+ validators and full nodes, with many front-ends and development teams on it.
 
-Docs for the network can be found at docs.osmosis.zone. Some repositories of interest:
+Docs for the network can be found at docs.Merlins.zone. Some repositories of interest:
 
 ## State machine
 
-* [osmosis](https://github.com/osmosis-labs/osmosis) - A node implementation for the Osmosis chain
-* [cosmos-sdk fork](https://github.com/osmosis-labs/cosmos-sdk) - Fork of the Cosmos SDK used in osmosis
+* [Merlins](https://github.com/Merlins-labs/Merlins) - A node implementation for the Merlins chain
+* [cosmos-sdk fork](https://github.com/Merlins-labs/cosmos-sdk) - Fork of the cosmos SDK used in Merlins
 
-Go to https://get.osmosis.zone to quickstart setting up a node!
+Go to https://get.Merlins.zone to quickstart setting up a node!
 
 ## Cosmwasm ecosystem
 
-* [beaker](https://github.com/osmosis-labs/beaker) - Dev tooling for cosmwasm contracts
-* [osmosis-rust](https://github.com/osmosis-labs/osmosis-rust) - Library of Stargate messages, queries and bindings for Osmosis, along with sample contracts.
+* [beaker](https://github.com/Merlins-labs/beaker) - Dev tooling for cosmwasm contracts
+* [Merlins-rust](https://github.com/Merlins-labs/Merlins-rust) - Library of Stargate messages, queries and bindings for Merlins, along with sample contracts.
 
 (TODO: Link to sample contracts here)
 
 ## JS tooling
 
-* [telescope](https://github.com/osmosis-labs/telescope) - protobuf transpilation tooling, to easily setup TS clients to interact with chains
-* [osmosis-frontend](https://github.com/osmosis-labs/osmosis-frontend) - Sample front-end implementation for the osmosis blockchain. There are many front-ends in the ecosystem.
+* [telescope](https://github.com/Merlins-labs/telescope) - protobuf transpilation tooling, to easily setup TS clients to interact with chains
+* [Merlins-frontend](https://github.com/Merlins-labs/Merlins-frontend) - Sample front-end implementation for the Merlins blockchain. There are many front-ends in the ecosystem.
 
 <!--
 
