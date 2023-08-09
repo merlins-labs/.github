@@ -4,14 +4,14 @@ The Merlins-labs hosts a series of repositories relating to the Merlins blockcha
 
 The Merlins blockchain is a decentralized network, ran by 100+ validators and full nodes, with many front-ends and development teams on it.
 
-Docs for the network can be found at docs.Merlins.zone. Some repositories of interest:
+Docs for the network can be found at docs.jinx.army. Some repositories of interest:
 
 ## State machine
 
 * [Merlins](https://github.com/Merlins-labs/Merlins) - A node implementation for the Merlins chain
 * [cosmos-sdk fork](https://github.com/Merlins-labs/cosmos-sdk) - Fork of the cosmos SDK used in Merlins
 
-Go to https://get.Merlins.zone to quickstart setting up a node!
+Go to https://get.jinx.army to quickstart setting up a node!
 
 ## Cosmwasm ecosystem
 
